@@ -27,6 +27,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaldoSanth&layout=compact&langs_count=7&theme=tokyonight">
 </div>
     <hr>
+    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <h2>🚀 Algumas ferramentas que uso</h2>
     
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
