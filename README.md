@@ -3,7 +3,7 @@
 <p>E LÁ VAI A DICA DO DIA</p>
 <p>💢 Sempre salve suas coisas toda hora 💢</p>
 <img align="right" src="https://global.discourse-cdn.com/nubank/original/4X/7/a/a/7aa1c6d6b121fffe849a7c3313c7f22036df184c.gif" />
-<h2>⚡️ Alguns fatos rápidos </h2>
+<h2>⚡️ Alguns fatos rápidos </h2> 
 <ul>
 <li>🔭 Atualmente estudando no <a href="https://www.proa.org.br">Intituto Proa</a>.</li>
 <li>🧐 Aprendendo sobre <strong>Desenvolvedor Full Stack</strong>, assim aprendendo de tudo um pouco.</li>
@@ -19,14 +19,14 @@
 <br><a href="https://toy.aoaoao.me/control?button=1&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/left.png" width="30"/></a><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><a href="https://toy.aoaoao.me/control?button=0&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/right.png" width="30"/></a><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><a href="https://toy.aoaoao.me/control?button=5&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/B.png" width="30"/></a> <a href="https://toy.aoaoao.me/control?button=4&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/A.png" width="30"/></a>
 <br><a href="https://toy.aoaoao.me/control?button=3&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/down.png" width="30"/></a>
 <br><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><a href="https://toy.aoaoao.me/control?button=6&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/select.png" height="30"/></a> <a href="https://toy.aoaoao.me/control?button=7&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/start.png" height="30" /></a>
-<br>
-<br>
+<hr>
 <br>
 <div>
   <a href="https://github.com/JoaldoSanth">
   <img height="180em" width="50%"src="https://github-readme-stats.vercel.app/api?username=JoaldoSanth&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaldoSanth&layout=compact&langs_count=7&theme=tokyonight">
 </div>
+    <hr>
 <h2>🚀 Algumas ferramentas que uso</h2>
     
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -36,6 +36,7 @@
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 <br>
 <br>
+<hr>
 <h2>📞 Contato</h2>
 <div> 
 <a href="https://www.instagram.com/joaldo_santh/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
