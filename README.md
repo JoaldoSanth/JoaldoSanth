@@ -7,12 +7,12 @@
 <ul>
 <li>🔭 Atualmente estudando no <a href="https://www.proa.org.br">Intituto Proa</a>.</li>
 <li>🧐 Aprendendo sobre <strong>Desenvolvedor Full Stack</strong>, assim aprendendo de tudo um pouco.</li>
+<li>🔎 Buscando empregabilidade na área da programação, aqui também você pode ver um pouco mais no Linkedin somente clicando <a href="https://www.linkedin.com/in/joaldo-santos-b173722b8/">aqui</a> </li>
 <li>🎮 Um apaixonado em jogos.</li>
 <li>👨‍💻 A maioria dos meus projetos estão disponíveis em <a href="https://github.com/JoaldoSanth">Github</a>.</li>
 <li>💬 Envie uma mensagem sobre <strong>emprego, programação, futebol, basquete e série</strong>.</li>
 </ul>
-
-<h2>🎮 Bora jogar um Pokémon </H2>
+<hr>
 <img src="https://i.pinimg.com/originals/72/8b/e7/728be70d80cc4db539cfe0cd2fdbe136.gif" width="300"/> 
 
 <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/> <a href="https://toy.aoaoao.me/control?button=2&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/up.png" width="30"/></a>
