@@ -6,8 +6,8 @@
 <h2>⚡️ Alguns fatos rápidos </h2> 
 <ul>
 <li>🔭 Atualmente estudando no <a href="https://www.proa.org.br">Intituto Proa</a>.</li>
-<li>🧐 Aprendendo sobre <strong>Desenvolvedor Full Stack</strong>, assim aprendendo de tudo um pouco.</li>
-<li>🔎 Buscando empregabilidade na área da programação, aqui também você pode ver um pouco mais no Linkedin somente clicando <a href="https://www.linkedin.com/in/joaldo-santos-b173722b8/">aqui</a> </li>
+<li>🧐 Aprendendo sobre ser um <strong>Desenvolvedor Full Stack</strong>.</li>
+<li>🔎 Buscando empregabilidade na área da programação <a href="https://www.linkedin.com/in/joaldo-santos-b173722b8/">Linkedin</a> </li>
 <li>🎮 Um apaixonado em jogos.</li>
 <li>👨‍💻 A maioria dos meus projetos estão disponíveis em <a href="https://github.com/JoaldoSanth">Github</a>.</li>
 <li>💬 Envie uma mensagem sobre <strong>emprego, programação, futebol, basquete e série</strong>.</li>
@@ -20,13 +20,6 @@
 <br><a href="https://toy.aoaoao.me/control?button=3&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/down.png" width="30"/></a>
 <br><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><a href="https://toy.aoaoao.me/control?button=6&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/select.png" height="30"/></a> <a href="https://toy.aoaoao.me/control?button=7&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/start.png" height="30" /></a>
 <hr>
-<br>
-<div>
-  <a href="https://github.com/JoaldoSanth">
-  <img height="180em" width="50%"src="https://github-readme-stats.vercel.app/api?username=JoaldoSanth&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaldoSanth&layout=compact&langs_count=7&theme=tokyonight">
-</div>
-    <hr>
     <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <h2>🚀 Algumas ferramentas que uso</h2>
     
@@ -35,8 +28,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-<br>
-<br>
 <hr>
 <h2>📞 Contato</h2>
 <div> 
