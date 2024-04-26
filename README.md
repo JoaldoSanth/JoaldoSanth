@@ -1,7 +1,6 @@
 <h2>Oi, eu sou o <a href="https://stanleylim.me/">Joaldo Azevedo Santos</a></h2>
 <p>Atualmente estudando do Instituto Proa, buscando ser um profissional na aréa da programação.👨‍💻</p>
-<p>E LÁ VAI A DICA DO DIA</p>
-<p>💢 Sempre salve suas coisas toda hora 💢</p>
+<p>💢 SELO DE GARANTIA:<strong>PROF. JAILSON</strong> 💢</p>
 <img align="right" src="https://global.discourse-cdn.com/nubank/original/4X/7/a/a/7aa1c6d6b121fffe849a7c3313c7f22036df184c.gif" />
 <h2>⚡️ Alguns fatos rápidos </h2> 
 <ul>
