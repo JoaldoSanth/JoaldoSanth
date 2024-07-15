@@ -4,7 +4,7 @@
 <img align="right" src="https://global.discourse-cdn.com/nubank/original/4X/7/a/a/7aa1c6d6b121fffe849a7c3313c7f22036df184c.gif" />
 <h2>⚡️ Alguns fatos rápidos </h2> 
 <ul>
-<li>🔭 Atualmente estudando no <a href="https://www.proa.org.br">Intituto Proa</a>.</li>
+<li>🔭 Ex estudaante do <a href="https://www.proa.org.br">Intituto Proa</a>.</li>
 <li>🧐 Aprendendo sobre ser um <strong>Desenvolvedor Full Stack</strong>.</li>
 <li>🔎 Buscando empregabilidade na área da programação <a href="https://www.linkedin.com/in/joaldo-santos-b173722b8/">Linkedin</a> </li>
 <li>🎮 Um apaixonado em jogos.</li>
